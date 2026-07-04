@@ -11,9 +11,9 @@ import HowItWorksPage from "./pages/HowItWorks";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
-import SuperAdmin from "./superadmin/superadmin";
-import SuperAdminLogin from "./superadmin/superadminlogin";
-import SuperAdminDashboard from "./superadmin/superadmindashboard";
+import SuperAdmin from "./superadmin/SuperAdmin";
+import SuperAdminLogin from "./superadmin/SuperAdminLogin";
+import SuperAdminDashboard from "./superadmin/SuperAdminDashboard";
 import ProtectedRoute from "./superadmin/ProtectedRoute";
 
 import AddEntity from "./superadmin/AddEntity";
