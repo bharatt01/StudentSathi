@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.radius-sm {
+		@apply rounded-sm;
+	}
+
+	/* Apply small radius to any element using Tailwind border classes */
+	[class*="border"] {
+		@apply rounded-sm;
+	}
+}
