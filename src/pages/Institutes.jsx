@@ -1,13 +1,13 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import InstituteHero from '../components/institute/InstituteHero';
-import InstituteFilterBar from '../components/institute/InstituteFilterBar';
-import FeaturedInstitute from '../components/institute/FeaturedInstitute';
-import InstituteGrid from '../components/institute/InstituteGrid';
-import InstituteSidebar from '../components/institute/InstituteSidebar';
-import InstituteComparison from '../components/institute/InstituteComparison';
-import InstituteCTA from '../components/institute/InstituteCTA';
+import InstituteHero from '../components/Institute/InstituteHero';
+import InstituteFilterBar from '../components/Institute/InstituteFilterBar';
+import FeaturedInstitute from '../components/Institute/FeaturedInstitute';
+import InstituteGrid from '../components/Institute/InstituteGrid';
+import InstituteSidebar from '../components/Institute/InstituteSidebar';
+import InstituteComparison from '../components/Institute/InstituteComparison';
+import InstituteCTA from '../components/Institute/InstituteCTA';
 
 const InstitutePage = () => {
   return (
